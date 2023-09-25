@@ -1,0 +1,17 @@
+D:\VSC 2022\BooKu\BooKu\bin\Debug\BooKu.exe.config
+D:\VSC 2022\BooKu\BooKu\bin\Debug\BooKu.exe
+D:\VSC 2022\BooKu\BooKu\bin\Debug\BooKu.pdb
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.csproj.AssemblyReference.cache
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.csproj.SuggestedBindingRedirects.cache
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.Properties.Resources.resources
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.csproj.GenerateResource.cache
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.csproj.CoreCompileInputs.cache
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.exe
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.pdb
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.BookDetailCard.resources
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.MainForm.resources
+D:\VSC 2022\BooKu\BooKu\bin\Debug\EntityFramework.dll
+D:\VSC 2022\BooKu\BooKu\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSC 2022\BooKu\BooKu\bin\Debug\EntityFramework.xml
+D:\VSC 2022\BooKu\BooKu\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSC 2022\BooKu\BooKu\obj\Debug\BooKu.csproj.CopyComplete
